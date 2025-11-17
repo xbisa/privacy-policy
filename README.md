@@ -67,5 +67,5 @@ If we make significant changes, we will post the updated policy within the app s
 
 ### Contact Us
 
-If you have questions or concerns about this Privacy Policy or how we handle your data, please contact us at:
-**[[support@positiveparenting.dk](mailto:support@positiveparenting.dk)](mailto:support@positiveparenting.dk)**
+If you have questions or concerns about this Privacy Policy or how we handle your data, please contact us at [support@positiveparenting.dk](mailto:support@positiveparenting.dk)
+
