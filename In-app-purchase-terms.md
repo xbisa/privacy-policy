@@ -8,7 +8,7 @@
 
 ### Free Trial
 
-- 7-day free trial available for all plans.
+- 14-day free trial available for all plans.
 - Trial automatically converts to paid subscription unless cancelled before it ends.
 
 ### Benefits of Paid Plans
